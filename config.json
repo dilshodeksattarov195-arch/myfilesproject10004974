@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdonnect",
+        "uuid": 34226094,
+        "checksum": "yozg2r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
